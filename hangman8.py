@@ -26,6 +26,7 @@ def main():
     while play == 'yes':
                 
         letter=[] #define variable letter
+        git_list=[] #List for testing git and GitHub
         badlist=[] # List of wrong guesses
         goodlist=[] # List of good guesses
         lchoice=[] # Chosed word in list format
